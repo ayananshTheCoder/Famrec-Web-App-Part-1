@@ -1,0 +1,34 @@
+body
+{
+    font-family: monospace;
+}
+
+.heading
+{
+    font-size: 23px;
+    margin: 5px;
+    width: 70%;
+    padding-bottom: 5px;
+    border: 5px;
+    border-radius: 20;
+    background-color: #83a2c5;
+}
+
+.heading_div
+{
+    float: none;
+    background-color: #f3ab94;
+    padding: 10px;
+    border-radius: 0px;
+    color: black;
+    width: max-content;
+}
+
+.heading_div2
+{
+    float: none;
+    background-color: black;
+    padding: 10px;
+    border-radius: 0px;
+    color: #ffffff    ;
+}
